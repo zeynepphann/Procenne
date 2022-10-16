@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="29.181">
+<testcase classname="Procenne adresinin ui testleri" name="Kullanici Procenne adresinin iletisim bilgilerini doldurur" time="28.913">
+<system-out><![CDATA[Given Kullanici procenneUrl adresine gider..................................passed
+Then Kullanici Iletisim butonuna tiklar.....................................passed
+And Kullanici sayfanin asagisindaki Bize Ulasin kutucugundaki gerekli alanlari doldurur..passed
+And Kullanici checkbox'lari isaretler.......................................passed
+Then Kullanici gonder butonuna tiklar.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>
